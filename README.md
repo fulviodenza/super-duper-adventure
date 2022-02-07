@@ -13,7 +13,7 @@ Logs are stored on an Elasticsearch db.
 
 # architectural-draw
 
-![architecture](./serverless.drawio.png)
+![architecture](./serverless.png)
 
 # execute the hypothetical not working script
 If this infrastructure worked I'd say (supposing you were on linux with amd64 architecture):
